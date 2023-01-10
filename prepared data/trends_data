@@ -1,0 +1,43 @@
+Location,Year,Median price,Growth (%)
+"Marin County, CA",2020-05-01,1262500.0,-0.39
+"San Francisco, CA",2020-05-01,1472500.0,3.3
+"Alameda County, CA",2020-05-01,859500.0,-0.06
+"Solano County, CA",2020-05-01,470000.0,6.8
+"San Mateo County, CA",2020-05-01,1537500.0,-0.81
+"Contra Costa County, CA",2020-05-01,640000.0,-0.78
+"Santa Clara County, CA",2020-05-01,1230000.0,1.7
+"Alameda County, CA",2020-10-01,909500.0,8.3
+"San Mateo County, CA",2020-10-01,1450000.0,7.3
+"San Francisco, CA",2020-10-01,1400000.0,-3.9
+"Solano County, CA",2020-10-01,485000.0,7.8
+"Marin County, CA",2020-10-01,1375000.0,10.0
+"Contra Costa County, CA",2020-10-01,725000.0,13.3
+"Santa Clara County, CA",2020-10-01,1270000.0,15.5
+"San Francisco, CA",2021-05-01,1450000.0,-1.5
+"Marin County, CA",2021-05-01,1450000.0,14.9
+"Solano County, CA",2021-05-01,550750.0,17.2
+"Contra Costa County, CA",2021-05-01,867000.0,35.3
+"San Mateo County, CA",2021-05-01,1650000.0,7.3
+"Santa Clara County, CA",2021-05-01,1400000.0,13.8
+"Alameda County, CA",2021-05-01,1100000.0,28.0
+"Marin County, CA",2021-10-01,1435000.0,4.4
+"Contra Costa County, CA",2021-10-01,820000.0,13.1
+"San Mateo County, CA",2021-10-01,1620000.0,11.7
+"Santa Clara County, CA",2021-10-01,1400000.0,10.2
+"Alameda County, CA",2021-10-01,1070000.0,17.6
+"San Francisco, CA",2021-10-01,1525000.0,8.9
+"Solano County, CA",2021-10-01,560000.0,15.5
+"San Francisco, CA",2022-05-01,1505000.0,3.8
+"Alameda County, CA",2022-05-01,1270000.0,15.5
+"Santa Clara County, CA",2022-05-01,1600000.0,14.3
+"Contra Costa County, CA",2022-05-01,900000.0,3.8
+"Solano County, CA",2022-05-01,606000.0,10.0
+"Marin County, CA",2022-05-01,1650000.0,13.8
+"San Mateo County, CA",2022-05-01,1717500.0,4.1
+"Marin County, CA",2022-10-01,1530000.0,6.6
+"Solano County, CA",2022-10-01,569000.0,1.6
+"Contra Costa County, CA",2022-10-01,794000.0,-3.2
+"San Mateo County, CA",2022-10-01,1529000.0,-5.6
+"Santa Clara County, CA",2022-10-01,1385000.0,-1.1
+"Alameda County, CA",2022-10-01,1070000.0,0.0
+"San Francisco, CA",2022-10-01,1422500.0,-6.7
